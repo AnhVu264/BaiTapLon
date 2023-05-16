@@ -1,0 +1,102 @@
+# depslib dependency file v1.0
+1684234388 source:f:\c++ training\bai_tap_lon\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<iostream>
+	<string>
+	"include/game.h"
+	"include/dino.h"
+	"include/ThreatsObject.h"
+	"include/Function.h"
+
+1679157872 f:\c++ training\bai_tap_lon\include\ltexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<iostream>
+	<cstring>
+	"game.h"
+
+1679157197 source:f:\c++ training\bai_tap_lon\ltexture.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"include/LTexture.h"
+	"include/game.h"
+
+1683704392 f:\c++ training\bai_tap_lon\include\game.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<iostream>
+	<cstring>
+
+1683704392 source:f:\c++ training\bai_tap_lon\game.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<iostream>
+	<cstring>
+	"include/game.h"
+
+1682418496 f:\c++ training\bai_tap_lon\dino.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<iostream>
+	<cstring>
+	"include/game.h"
+
+1683716640 f:\c++ training\bai_tap_lon\include\dino.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<iostream>
+	<cstring>
+	"game.h"
+	"ThreatsObject.h"
+
+1683716629 source:f:\c++ training\bai_tap_lon\dino.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<iostream>
+	<cstring>
+	"include/dino.h"
+	"include/ThreatsObject.h"
+	"include/game.h"
+
+1683261666 source:f:\c++ training\bai_tap_lon\function.cpp
+	"include/Function.h"
+	"include/dino.h"
+	"include/ThreatsObject.h"
+
+1683435265 f:\c++ training\bai_tap_lon\include\function.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<iostream>
+	<cstring>
+
+1684237245 f:\c++ training\bai_tap_lon\include\threatsobject.h
+	"game.h"
+	"Function.h"
+
+1683261826 source:f:\c++ training\bai_tap_lon\baseobject.cpp
+	"include/BaseObject.h"
+
+1682999443 f:\c++ training\bai_tap_lon\include\baseobject.h
+	"Function.h"
+
+1683715819 source:f:\c++ training\bai_tap_lon\threatsobject.cpp
+	"include/ThreatsObject.h"
+
